@@ -1,0 +1,4 @@
+def solution(n):
+    answer = 0
+    if (n % 7) != 0: answer = 1
+    return n // 7 + answer
