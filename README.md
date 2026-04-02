@@ -67,12 +67,14 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/esc-beep/Algorithm-Study/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/esc-beep/Algorithm-Study/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/esc-beep/Algorithm-Study/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/esc-beep/Algorithm-Study/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/esc-beep/Algorithm-Study/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/esc-beep/Algorithm-Study/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/esc-beep/Algorithm-Study/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/esc-beep/Algorithm-Study/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/esc-beep/Algorithm-Study/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/esc-beep/Algorithm-Study/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/esc-beep/Algorithm-Study/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
