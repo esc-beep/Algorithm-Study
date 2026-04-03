@@ -112,5 +112,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/esc-beep/Algorithm-Study/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/esc-beep/Algorithm-Study/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/esc-beep/Algorithm-Study/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
