@@ -1,4 +1,3 @@
--- 코드를 작성해주세요
 SELECT info.ITEM_ID, info.ITEM_NAME, info.RARITY
 FROM ITEM_INFO info
 JOIN ITEM_TREE tree
