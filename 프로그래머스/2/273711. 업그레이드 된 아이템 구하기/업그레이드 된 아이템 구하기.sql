@@ -1,8 +1,8 @@
-SELECT info.ITEM_ID, info.ITEM_NAME, info.RARITY
-FROM ITEM_INFO info
-JOIN ITEM_TREE child
-ON info.ITEM_ID = child.ITEM_ID
+SELECT child.ITEM_ID, child.ITEM_NAME, child.RARITY
+FROM ITEM_INFO child
+JOIN ITEM_TREE tree
+ON child.ITEM_ID = tree.ITEM_ID
 JOIN ITEM_INFO parent
-ON child.PARENT_ITEM_ID = parent.ITEM_ID
+ON tree.PARENT_ITEM_ID = parent.ITEM_ID	
 WHERE parent.RARITY = "RARE"
-ORDER BY info.ITEM_ID DESC;
+ORDER BY child.ITEM_ID DESC;
